@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/main-linktree/static/css/main.91863fca.css",
+    "main.js": "/main-linktree/static/js/main.cadf3884.js",
+    "static/media/jojoimg4.jpeg": "/main-linktree/static/media/jojoimg4.7b5fffc3513d8cc4d32e.jpeg",
+    "static/media/link.png": "/main-linktree/static/media/link.62348928853cfca3d9d9.png",
+    "index.html": "/main-linktree/index.html",
+    "main.91863fca.css.map": "/main-linktree/static/css/main.91863fca.css.map",
+    "main.cadf3884.js.map": "/main-linktree/static/js/main.cadf3884.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91863fca.css",
+    "static/js/main.cadf3884.js"
+  ]
+}
